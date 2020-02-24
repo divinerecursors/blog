@@ -1,3 +1,4 @@
+baseURL: https://divinerecursors.github.io/
 theme: pure
 title: Pure theme for Hugo
 publishDir: divinerecursors.github.io
@@ -95,15 +96,15 @@ params:
     enabled: true # Whether to show profile bar
     avatar: avatar.png
     gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-    author: xiaoheiAh
-    author_title: author title
-    author_description: Good Good Study, Day Day Up~
-    location: Shanghai, China
-    follow: https://github.com/xiaoheiAh
+    author: Divine Recursors
+    author_title: Competitive Programming and Algorithms
+    author_description: Competitive Programming and CS Resources
+    location: KIIT, India
+    follow: https://github.com/divinerecursors
     # Social Links
     social:
       links:
-        github: https://github.com/xiaoheiAh
+        github: https://github.com/divinerecursors
         # weibo: http://weibo.com/{yourid}
         # twitter: https://twitter.com/
         # facebook: /
@@ -124,8 +125,7 @@ params:
   # weibo,qq,qzone,wechat,tencent,douban,diandian,facebook,twitter,google,linkedin
   share:
     enable: true # 是否启用分享
-    sites: weibo,qq,wechat,facebook,twitter # PC端显示的分享图标
-    mobile_sites: weibo,qq,qzone # 移动端显示的分享图标
+    sites: facebook,twitter # PC端显示的分享图标
 
   # Comment
   comment:
@@ -148,27 +148,6 @@ params:
       pageSize: 10 # pagination size
       visitor: false # Article reading statistic https://valine.js.org/visitor.html
 
-  # Donate
-  donate:
-    enable: false
-    # 微信打赏
-    wechatpay:
-      qrcode: donate/wechatpayimg.png
-      title: 微信支付
-    # 支付宝打赏
-    alipay:
-      qrcode: donate/alipayimg.png
-      title: 支付宝
-
-  # PV
-  pv:
-    busuanzi:
-      enable: false # 不蒜子统计
-    leancloud:
-      enable: false # leancloud统计
-      app_id: # leancloud <AppID>
-      app_key: # leancloud <AppKey>
-
   # wordcount
   postCount:
     enable: true
@@ -177,7 +156,7 @@ params:
 
   # config
   config:
-    skin: theme-black # theme color default is white. other type [theme-black,theme-blue,theme-green,theme-purple]
+    skin: theme-white # theme color default is white. other type [theme-black,theme-blue,theme-green,theme-purple]
     layout: main-center # main-left main-center main-right
     excerpt_link: Read More
     toc: true
