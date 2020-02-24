@@ -1,6 +1,6 @@
-baseURL: https://example.com/
 theme: pure
 title: Pure theme for Hugo
+publishDir: divinerecursors.github.io
 defaultContentLanguage: en  # en/zh/...
 footnoteReturnLinkContents: ↩
 hasCJKLanguage: true
