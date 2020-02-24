@@ -1,6 +1,6 @@
 baseURL: https://divinerecursors.github.io/
 theme: pure
-title: Pure theme for Hugo
+title: Divine Recursors
 publishDir: divinerecursors.github.io
 defaultContentLanguage: en  # en/zh/...
 footnoteReturnLinkContents: ↩
@@ -74,14 +74,14 @@ params:
   # Icon Reference: http://blog.cofess.com/hexo-theme-pure/iconfont/demo_fontclass.html
   enableMathJax: true #Enable mathjax support, to use mathematical notations
   highlightjs:
-    langs: ["python", "javascript"] # refer to http://staticfile.org/, search highlight.js, already have highlight.min.js
+    langs: ["python", "javascript", "c++"] # refer to http://staticfile.org/, search highlight.js, already have highlight.min.js
 
   # Allows you to specify an override stylesheet
   # put custom.css in $hugo_root_dir/static/
   # customCSS: css/custom.css
 
   menuIcons:
-    enable: true  # 是否启用导航菜单图标
+    enable: true
     home: icon-home-fill
     archives: icon-archives-fill
     categories: icon-folder
@@ -117,9 +117,9 @@ params:
       width: 40
       height: 40
       url: favicon.ico
-    title: Hugo # 页面title
+    title: Divine Recursors
     favicon: favicon.ico
-    board: <p>enjoy~</p> # 公告牌
+    board: <p>Divine Recursors</p>
 
   # Share
   # weibo,qq,qzone,wechat,tencent,douban,diandian,facebook,twitter,google,linkedin
