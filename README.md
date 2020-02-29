@@ -1,5 +1,5 @@
-<p>
-    <img src="static/avatar.png" align="center">
+<p align="center">
+    <img src="static/avatar.png">
 </p>
 
 # BLOG
