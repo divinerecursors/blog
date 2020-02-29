@@ -39,7 +39,6 @@ Copyright(c) **Divine Recursors**. All rights reserved.
 
 Licensed under the [MIT](LICENSE) License
 
-<br>
 
 ![](https://img.shields.io/badge/license-MIT-green/?style=for-the-badge)
 ![](https://img.shields.io/badge/template-HUGO-green/?style=for-the-badge)
