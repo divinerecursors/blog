@@ -1,4 +1,6 @@
-<img src="static/avatar.png" align="center">
+<p>
+    <img src="static/avatar.png" align="center">
+</p>
 
 # BLOG
 
