@@ -2,6 +2,7 @@
     <img height="200" src="static/avatar.png">
 </p>
 
+
 # BLOG
 
 This is the Hugo template code for the blog. The blog is available at https://www.divinerecursors.github.io
@@ -37,3 +38,8 @@ Contributors are advised not to run this script, let the maintainer deploy it. Y
 Copyright(c) **Divine Recursors**. All rights reserved.
 
 Licensed under the [MIT](LICENSE) License
+
+<br>
+
+![](https://img.shields.io/badge/license-MIT-green/?style=for-the-badge)
+![](https://img.shields.io/badge/template-HUGO-green/?style=for-the-badge)
