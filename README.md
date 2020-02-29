@@ -20,7 +20,7 @@ You need to have **Hugo** installed on your system to build the html,css and js 
 
 ## How to add posts ?
 
-* Add `<post_title>.md` file in the `content/posts/` directory to add a new post
+* Run `hugo new posts/<post_title>.md` to add a new post
 * Refer other posts in the directory to understand the how to add metadata and content of the post.
 
 
