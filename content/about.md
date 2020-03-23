@@ -17,7 +17,7 @@ for computers, math and puzzles, we plan to share our learnings, progress and ex
 
 * Aditya Meharia (adityameharia14@gmail.com)
 * Junaid Rahim (junaidrahim5a@gmail.com)
-* Debmalya Chaterjee (debchatt21@gmail.com)
+* Debmalya Chatterjee (debchatt21@gmail.com)
 * Biswaroop Bhattacharjee (biswaroop08@gmail.com)
 
 Feel free to email us if you have something to discuss. 
